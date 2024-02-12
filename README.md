@@ -5,12 +5,11 @@ I have multiple certifications in data analytics, business analysis, and Palanti
 
 Skills: JS / C# / WPF / HTML / CSS / Python & More
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mibr96)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mibr96&theme=merko)](https://github.com/anuraghazra/github-readme-stats&theme=merko) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mibr96&show_icons=true&count_private=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mibr96)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mibr96&show_icons=true&count_private=true&theme=merko) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mibr96&theme=merko)  
 
 
- I’m currently working on GenSyS: https://github.com/Mibr96/GensaSys 
-
-![Screenshot](LoginScreen.png)
-![Screenshot](EnrolledDevices.png)
+### I’m currently working on GenSyS, an application made in WPF & C# - Read more about it here: https://github.com/Mibr96/GensaSys 
+ 
+<img src="https://github.com/Mibr96/Mibr96/blob/main/LoginScreen.png" height="400"> <img src="https://github.com/Mibr96/Mibr96/blob/main/EnrolledDevices.png" height="400">
